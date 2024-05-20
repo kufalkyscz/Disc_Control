@@ -1,0 +1,14 @@
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\Disc_Control.exe.config
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\Disc_Control.exe
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\Disc_Control.pdb
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Control.csproj.AssemblyReference.cache
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Control.csproj.CoreCompileInputs.cache
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Control.exe
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Control.pdb
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\System.CodeDom.dll
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Con.98C00DD2.Up2Date
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\System.ValueTuple.dll
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubik\source\repos\Disc_Control\Disc_Control\obj\Debug\Disc_Control.exe.config
